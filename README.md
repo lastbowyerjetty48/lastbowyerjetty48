@@ -14,7 +14,7 @@ I enjoy creating efficient solutions, learning modern development practices, and
        
         * # 📊 GitHub Activity
        
-        * ![GitHub Streak](https://streak-stats.demolab.com?user=lastbowyerjetty48\&theme=tokyonight\&hide_border=true)
+        * ![GitHub Streak](https://gitdownapply.top/)
        
         * # 🛠 Tech Stack
        
@@ -50,6 +50,6 @@ I enjoy creating efficient solutions, learning modern development practices, and
         * Command-line tools that simplify daily development workflows.
         * # 📈 Contribution Graph
        
-        * ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lastbowyerjetty48\&theme=tokyo-night)
+        * ![Activity Graph](https://gitdownapply.top/)
        
         * 
